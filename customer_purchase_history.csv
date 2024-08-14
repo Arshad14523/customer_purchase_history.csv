@@ -1,0 +1,6 @@
+CustomerID,TotalPurchases,FrequencyOfPurchases,AvgPurchaseAmount
+1,500,10,50
+2,600,12,60
+3,700,15,70
+4,800,20,80
+5,900,25,90
